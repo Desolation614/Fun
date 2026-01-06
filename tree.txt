@@ -1,0 +1,1722 @@
+Folder PATH listing
+Volume serial number is 70DE-7E1E
+C:.
+³   .gitignore
+³   build.gradle.kts
+³   gradlew
+³   gradlew.bat
+³   settings.gradle.kts
+³   tree.txt
+³   
+ÃÄÄÄ.gradle
+³   ³   file-system.probe
+³   ³   
+³   ÃÄÄÄ9.0.0
+³   ³   ³   gc.properties
+³   ³   ³   
+³   ³   ÃÄÄÄchecksums
+³   ³   ³       checksums.lock
+³   ³   ³       md5-checksums.bin
+³   ³   ³       sha1-checksums.bin
+³   ³   ³       
+³   ³   ÃÄÄÄexecutionHistory
+³   ³   ³       executionHistory.bin
+³   ³   ³       executionHistory.lock
+³   ³   ³       
+³   ³   ÃÄÄÄexpanded
+³   ³   ÃÄÄÄfileChanges
+³   ³   ³       last-build.bin
+³   ³   ³       
+³   ³   ÃÄÄÄfileHashes
+³   ³   ³       fileHashes.bin
+³   ³   ³       fileHashes.lock
+³   ³   ³       resourceHashesCache.bin
+³   ³   ³       
+³   ³   ÀÄÄÄvcsMetadata
+³   ÃÄÄÄbuildOutputCleanup
+³   ³       buildOutputCleanup.lock
+³   ³       cache.properties
+³   ³       outputFiles.bin
+³   ³       
+³   ÀÄÄÄvcs-1
+³           gc.properties
+³           
+ÃÄÄÄ.idea
+³       .gitignore
+³       compiler.xml
+³       gradle.xml
+³       misc.xml
+³       workspace.xml
+³       
+ÃÄÄÄbuild
+³   ÃÄÄÄclasses
+³   ³   ÀÄÄÄjava
+³   ³       ÀÄÄÄmain
+³   ÃÄÄÄgenerated
+³   ³   ÀÄÄÄsources
+³   ³       ÃÄÄÄannotationProcessor
+³   ³       ³   ÀÄÄÄjava
+³   ³       ³       ÀÄÄÄmain
+³   ³       ÀÄÄÄheaders
+³   ³           ÀÄÄÄjava
+³   ³               ÀÄÄÄmain
+³   ÃÄÄÄreports
+³   ³   ÀÄÄÄproblems
+³   ³           problems-report.html
+³   ³           
+³   ÀÄÄÄtmp
+³       ÀÄÄÄcompileJava
+ÃÄÄÄgradle
+³   ÀÄÄÄwrapper
+³           gradle-wrapper.jar
+³           gradle-wrapper.properties
+³           
+ÃÄÄÄlibs
+³       aopalliance-1.0.jar
+³       autocomplete-3.1.1.jar
+³       bcprov-jdk15on-1.59.jar
+³       client-57b3fe11d3.jar
+³       commons-lang3-3.7.jar
+³       commons-text-1.2.jar
+³       discord-1.4.jar
+³       flatlaf-3.2.5-rl4.jar
+³       flatlaf-extras-3.2.5-rl4.jar
+³       gson-2.8.5.jar
+³       guava-23.2-jre.jar
+³       guice-4.1.0-no_aop.jar
+³       http-api-1.2.21.jar
+³       injected-client-1.11.12.jar
+³       javax.inject-1.jar
+³       jna-5.10.0.jar
+³       jna-platform-5.10.0.jar
+³       jopt-simple-5.0.1.jar
+³       json-20220320.jar
+³       jsr305-3.0.2.jar
+³       jsvg-1.2.0.jar
+³       logback-classic-1.2.9.jar
+³       logback-core-1.2.9.jar
+³       lwjgl-3.3.2-natives-windows.jar
+³       lwjgl-3.3.2.jar
+³       lwjgl-opencl-3.3.2.jar
+³       lwjgl-opengl-3.3.2-natives-windows.jar
+³       lwjgl-opengl-3.3.2.jar
+³       okhttp-3.14.9.jar
+³       okio-1.17.2.jar
+³       protobuf-javalite-3.21.12.jar
+³       rlawt-1.5.jar
+³       rsyntaxtextarea-3.1.2.jar
+³       runelite-api-1.11.12.jar
+³       runescape-api-1.11.12.jar
+³       sentry-8.17.0.jar
+³       sentry-logback-8.17.0.jar
+³       slf4j-api-1.7.25.jar
+³       tree.txt
+³       
+ÀÄÄÄsrc
+    ÃÄÄÄmain
+    ³   ÃÄÄÄjava
+    ³   ³   ³   ClassPreloader.java
+    ³   ³   ³   ClientSessionManager.java
+    ³   ³   ³   MyClientLauncher.java
+    ³   ³   ³   Notifier.java
+    ³   ³   ³   RuneLite.java
+    ³   ³   ³   RuneLiteModule.java
+    ³   ³   ³   RuneLiteProperties.java
+    ³   ³   ³   RuntimeConfig.java
+    ³   ³   ³   RuntimeConfigLoader.java
+    ³   ³   ³   RuntimeConfigRefresher.java
+    ³   ³   ³   SessionClient.java
+    ³   ³   ³   TelemetryClient.java
+    ³   ³   ³   Updater.java
+    ³   ³   ³   
+    ³   ³   ÃÄÄÄaccount
+    ³   ³   ³       AccountClient.java
+    ³   ³   ³       AccountSession.java
+    ³   ³   ³       SessionManager.java
+    ³   ³   ³       
+    ³   ³   ÃÄÄÄaudio
+    ³   ³   ³       AudioPlayer.java
+    ³   ³   ³       
+    ³   ³   ÃÄÄÄcallback
+    ³   ³   ³       ClientThread.java
+    ³   ³   ³       Hooks.java
+    ³   ³   ³       
+    ³   ³   ÃÄÄÄchat
+    ³   ³   ³       ChatClient.java
+    ³   ³   ³       ChatColor.java
+    ³   ³   ³       ChatColorType.java
+    ³   ³   ³       ChatCommand.java
+    ³   ³   ³       ChatCommandManager.java
+    ³   ³   ³       ChatInputManager.java
+    ³   ³   ³       ChatMessageBuilder.java
+    ³   ³   ³       ChatMessageManager.java
+    ³   ³   ³       QueuedMessage.java
+    ³   ³   ³       
+    ³   ³   ÃÄÄÄconfig
+    ³   ³   ³       Alpha.java
+    ³   ³   ³       ChatColorConfig.java
+    ³   ³   ³       Config.java
+    ³   ³   ³       ConfigClient.java
+    ³   ³   ³       ConfigData.java
+    ³   ³   ³       ConfigDescriptor.java
+    ³   ³   ³       ConfigGroup.java
+    ³   ³   ³       ConfigInvocationHandler.java
+    ³   ³   ³       ConfigItem.java
+    ³   ³   ³       ConfigItemDescriptor.java
+    ³   ³   ³       ConfigManager.java
+    ³   ³   ³       ConfigObject.java
+    ³   ³   ³       ConfigProfile.java
+    ³   ³   ³       ConfigSection.java
+    ³   ³   ³       ConfigSectionDescriptor.java
+    ³   ³   ³       ConfigSerializer.java
+    ³   ³   ³       ExpandResizeType.java
+    ³   ³   ³       FlashNotification.java
+    ³   ³   ³       FontType.java
+    ³   ³   ³       Keybind.java
+    ³   ³   ³       ModifierlessKeybind.java
+    ³   ³   ³       Notification.java
+    ³   ³   ³       NotificationSerializer.java
+    ³   ³   ³       NotificationSound.java
+    ³   ³   ³       ProfileManager.java
+    ³   ³   ³       Profiles.java
+    ³   ³   ³       Range.java
+    ³   ³   ³       RequestFocusType.java
+    ³   ³   ³       RuneLiteConfig.java
+    ³   ³   ³       RuneScapeProfile.java
+    ³   ³   ³       RuneScapeProfileType.java
+    ³   ³   ³       Serializer.java
+    ³   ³   ³       TooltipPositionType.java
+    ³   ³   ³       Units.java
+    ³   ³   ³       WarningOnExit.java
+    ³   ³   ³       
+    ³   ³   ÃÄÄÄdiscord
+    ³   ³   ³   ³   DiscordPresence.java
+    ³   ³   ³   ³   DiscordService.java
+    ³   ³   ³   ³   
+    ³   ³   ³   ÀÄÄÄevents
+    ³   ³   ³           DiscordDisconnected.java
+    ³   ³   ³           DiscordErrored.java
+    ³   ³   ³           DiscordJoinGame.java
+    ³   ³   ³           DiscordJoinRequest.java
+    ³   ³   ³           DiscordReady.java
+    ³   ³   ³           DiscordSpectateGame.java
+    ³   ³   ³           
+    ³   ³   ÃÄÄÄeventbus
+    ³   ³   ³       EventBus.java
+    ³   ³   ³       Subscribe.java
+    ³   ³   ³       
+    ³   ³   ÃÄÄÄevents
+    ³   ³   ³       ChatboxInput.java
+    ³   ³   ³       ChatInput.java
+    ³   ³   ³       ClientShutdown.java
+    ³   ³   ³       ConfigChanged.java
+    ³   ³   ³       ConfigSync.java
+    ³   ³   ³       ExternalPluginsChanged.java
+    ³   ³   ³       InfoBoxMenuClicked.java
+    ³   ³   ³       NotificationFired.java
+    ³   ³   ³       NpcLootReceived.java
+    ³   ³   ³       OverlayMenuClicked.java
+    ³   ³   ³       PartyChanged.java
+    ³   ³   ³       PartyMemberAvatar.java
+    ³   ³   ³       PlayerLootReceived.java
+    ³   ³   ³       PluginChanged.java
+    ³   ³   ³       PluginMessage.java
+    ³   ³   ³       PrivateMessageInput.java
+    ³   ³   ³       ProfileChanged.java
+    ³   ³   ³       RuneScapeProfileChanged.java
+    ³   ³   ³       ScreenshotTaken.java
+    ³   ³   ³       ServerNpcLoot.java
+    ³   ³   ³       SessionClose.java
+    ³   ³   ³       SessionOpen.java
+    ³   ³   ³       WorldsFetch.java
+    ³   ³   ³       
+    ³   ³   ÃÄÄÄexternalplugins
+    ³   ³   ³       ExternalPluginClient.java
+    ³   ³   ³       ExternalPluginManager.java
+    ³   ³   ³       PluginHubClassLoader.java
+    ³   ³   ³       PluginHubManifest.java
+    ³   ³   ³       
+    ³   ³   ÃÄÄÄgame
+    ³   ³   ³   ³   AgilityShortcut.java
+    ³   ³   ³   ³   AlternateSprites.java
+    ³   ³   ³   ³   ChatIconManager.java
+    ³   ³   ³   ³   FishingSpot.java
+    ³   ³   ³   ³   ItemClient.java
+    ³   ³   ³   ³   ItemEquipmentStats.java
+    ³   ³   ³   ³   ItemManager.java
+    ³   ³   ³   ³   ItemMapping.java
+    ³   ³   ³   ³   ItemStack.java
+    ³   ³   ³   ³   ItemStats.java
+    ³   ³   ³   ³   ItemVariationMapping.java
+    ³   ³   ³   ³   LootManager.java
+    ³   ³   ³   ³   NpcInfo.java
+    ³   ³   ³   ³   NpcInfoClient.java
+    ³   ³   ³   ³   NPCManager.java
+    ³   ³   ³   ³   NpcUtil.java
+    ³   ³   ³   ³   SkillIconManager.java
+    ³   ³   ³   ³   SpriteManager.java
+    ³   ³   ³   ³   SpriteOverride.java
+    ³   ³   ³   ³   WorldClient.java
+    ³   ³   ³   ³   WorldService.java
+    ³   ³   ³   ³   
+    ³   ³   ³   ÃÄÄÄchatbox
+    ³   ³   ³   ³       ChatboxInput.java
+    ³   ³   ³   ³       ChatboxItemSearch.java
+    ³   ³   ³   ³       ChatboxPanelManager.java
+    ³   ³   ³   ³       ChatboxTextInput.java
+    ³   ³   ³   ³       ChatboxTextMenuInput.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÀÄÄÄnpcoverlay
+    ³   ³   ³           HighlightedNpc.java
+    ³   ³   ³           NpcMinimapOverlay.java
+    ³   ³   ³           NpcOverlay.java
+    ³   ³   ³           NpcOverlayService.java
+    ³   ³   ³           
+    ³   ³   ÃÄÄÄhiscore
+    ³   ³   ³       HiscoreClient.java
+    ³   ³   ³       HiscoreEndpoint.java
+    ³   ³   ³       HiscoreLoader.java
+    ³   ³   ³       HiscoreManager.java
+    ³   ³   ³       HiscoreResponse.java
+    ³   ³   ³       HiscoreResult.java
+    ³   ³   ³       HiscoreSkill.java
+    ³   ³   ³       HiscoreSkillType.java
+    ³   ³   ³       Skill.java
+    ³   ³   ³       
+    ³   ³   ÃÄÄÄinput
+    ³   ³   ³       KeyListener.java
+    ³   ³   ³       KeyManager.java
+    ³   ³   ³       MouseAdapter.java
+    ³   ³   ³       MouseListener.java
+    ³   ³   ³       MouseManager.java
+    ³   ³   ³       MouseWheelListener.java
+    ³   ³   ³       
+    ³   ³   ÃÄÄÄmenus
+    ³   ³   ³       MenuManager.java
+    ³   ³   ³       WidgetMenuOption.java
+    ³   ³   ³       
+    ³   ³   ÃÄÄÄorg
+    ³   ³   ³   ÀÄÄÄexample
+    ³   ³   ³           Main.java
+    ³   ³   ³           
+    ³   ³   ÃÄÄÄparty
+    ³   ³   ³   ³   Party.java
+    ³   ³   ³   ³   PartyMember.java
+    ³   ³   ³   ³   PartyService.java
+    ³   ³   ³   ³   WebsocketGsonFactory.java
+    ³   ³   ³   ³   WSClient.java
+    ³   ³   ³   ³   
+    ³   ³   ³   ÃÄÄÄevents
+    ³   ³   ³   ³       UserJoin.java
+    ³   ³   ³   ³       UserPart.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÀÄÄÄmessages
+    ³   ³   ³           PartyChatMessage.java
+    ³   ³   ³           PartyMemberMessage.java
+    ³   ³   ³           PartyMessage.java
+    ³   ³   ³           UserSync.java
+    ³   ³   ³           WebsocketMessage.java
+    ³   ³   ³           
+    ³   ³   ÃÄÄÄplugins
+    ³   ³   ³   ³   Plugin.java
+    ³   ³   ³   ³   PluginClassLoader.java
+    ³   ³   ³   ³   PluginDependencies.java
+    ³   ³   ³   ³   PluginDependency.java
+    ³   ³   ³   ³   PluginDescriptor.java
+    ³   ³   ³   ³   PluginInstantiationException.java
+    ³   ³   ³   ³   PluginManager.java
+    ³   ³   ³   ³   
+    ³   ³   ³   ÃÄÄÄaccount
+    ³   ³   ³   ³       AccountPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄachievementdiary
+    ³   ³   ³   ³   ³   CombatLevelRequirement.java
+    ³   ³   ³   ³   ³   DiaryRequirement.java
+    ³   ³   ³   ³   ³   DiaryRequirementsPlugin.java
+    ³   ³   ³   ³   ³   GenericDiaryRequirement.java
+    ³   ³   ³   ³   ³   OrRequirement.java
+    ³   ³   ³   ³   ³   QuestPointRequirement.java
+    ³   ³   ³   ³   ³   QuestRequirement.java
+    ³   ³   ³   ³   ³   Requirement.java
+    ³   ³   ³   ³   ³   SkillRequirement.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÀÄÄÄdiaries
+    ³   ³   ³   ³           ArdougneDiaryRequirement.java
+    ³   ³   ³   ³           DesertDiaryRequirement.java
+    ³   ³   ³   ³           FaladorDiaryRequirement.java
+    ³   ³   ³   ³           FremennikDiaryRequirement.java
+    ³   ³   ³   ³           KandarinDiaryRequirement.java
+    ³   ³   ³   ³           KaramjaDiaryRequirement.java
+    ³   ³   ³   ³           KourendDiaryRequirement.java
+    ³   ³   ³   ³           LumbridgeDiaryRequirement.java
+    ³   ³   ³   ³           MorytaniaDiaryRequirement.java
+    ³   ³   ³   ³           VarrockDiaryRequirement.java
+    ³   ³   ³   ³           WesternDiaryRequirement.java
+    ³   ³   ³   ³           WildernessDiaryRequirement.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄagility
+    ³   ³   ³   ³       AgilityArenaTimer.java
+    ³   ³   ³   ³       AgilityConfig.java
+    ³   ³   ³   ³       AgilityOverlay.java
+    ³   ³   ³   ³       AgilityPlugin.java
+    ³   ³   ³   ³       AgilitySession.java
+    ³   ³   ³   ³       Courses.java
+    ³   ³   ³   ³       LapCounterOverlay.java
+    ³   ³   ³   ³       Obstacle.java
+    ³   ³   ³   ³       Obstacles.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄammo
+    ³   ³   ³   ³       AmmoCounter.java
+    ³   ³   ³   ³       AmmoPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄanimsmoothing
+    ³   ³   ³   ³       AnimationSmoothingPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄantidrag
+    ³   ³   ³   ³       AntiDragConfig.java
+    ³   ³   ³   ³       AntiDragPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄattackstyles
+    ³   ³   ³   ³       AttackStyle.java
+    ³   ³   ³   ³       AttackStylesConfig.java
+    ³   ³   ³   ³       AttackStylesOverlay.java
+    ³   ³   ³   ³       AttackStylesPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄbank
+    ³   ³   ³   ³       BankConfig.java
+    ³   ³   ³   ³       BankPlugin.java
+    ³   ³   ³   ³       BankSearch.java
+    ³   ³   ³   ³       ContainerPrices.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄbanktags
+    ³   ³   ³   ³   ³   BankTag.java
+    ³   ³   ³   ³   ³   BankTagsConfig.java
+    ³   ³   ³   ³   ³   BankTagsPlugin.java
+    ³   ³   ³   ³   ³   BankTagsService.java
+    ³   ³   ³   ³   ³   TagManager.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÀÄÄÄtabs
+    ³   ³   ³   ³           AutoLayout.java
+    ³   ³   ³   ³           Layout.java
+    ³   ³   ³   ³           LayoutManager.java
+    ³   ³   ³   ³           Potion.java
+    ³   ³   ³   ³           PotionStorage.java
+    ³   ³   ³   ³           TabInterface.java
+    ³   ³   ³   ³           TabManager.java
+    ³   ³   ³   ³           TabSprites.java
+    ³   ³   ³   ³           TagTab.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄbarbarianassault
+    ³   ³   ³   ³       BarbarianAssaultConfig.java
+    ³   ³   ³   ³       BarbarianAssaultPlugin.java
+    ³   ³   ³   ³       GameTimer.java
+    ³   ³   ³   ³       HealerOverlay.java
+    ³   ³   ³   ³       Role.java
+    ³   ³   ³   ³       Round.java
+    ³   ³   ³   ³       TimerOverlay.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄbarrows
+    ³   ³   ³   ³       BarrowsBrothers.java
+    ³   ³   ³   ³       BarrowsBrotherSlainOverlay.java
+    ³   ³   ³   ³       BarrowsConfig.java
+    ³   ³   ³   ³       BarrowsOverlay.java
+    ³   ³   ³   ³       BarrowsPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄblastfurnace
+    ³   ³   ³   ³       BarsOres.java
+    ³   ³   ³   ³       BlastFurnaceClickBoxOverlay.java
+    ³   ³   ³   ³       BlastFurnaceCofferOverlay.java
+    ³   ³   ³   ³       BlastFurnaceConfig.java
+    ³   ³   ³   ³       BlastFurnaceOverlay.java
+    ³   ³   ³   ³       BlastFurnacePlugin.java
+    ³   ³   ³   ³       ForemanTimer.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄblastmine
+    ³   ³   ³   ³       BlastMineOreCountOverlay.java
+    ³   ³   ³   ³       BlastMinePlugin.java
+    ³   ³   ³   ³       BlastMinePluginConfig.java
+    ³   ³   ³   ³       BlastMineRock.java
+    ³   ³   ³   ³       BlastMineRockOverlay.java
+    ³   ³   ³   ³       BlastMineRockType.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄboosts
+    ³   ³   ³   ³       BoostIndicator.java
+    ³   ³   ³   ³       BoostsConfig.java
+    ³   ³   ³   ³       BoostsOverlay.java
+    ³   ³   ³   ³       BoostsPlugin.java
+    ³   ³   ³   ³       CompactBoostsOverlay.java
+    ³   ³   ³   ³       StatChangeIndicator.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄbosstimer
+    ³   ³   ³   ³       Boss.java
+    ³   ³   ³   ³       BossTimersPlugin.java
+    ³   ³   ³   ³       RespawnTimer.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄcamera
+    ³   ³   ³   ³       CameraConfig.java
+    ³   ³   ³   ³       CameraPlugin.java
+    ³   ³   ³   ³       ControlFunction.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄcannon
+    ³   ³   ³   ³       CannonConfig.java
+    ³   ³   ³   ³       CannonCounter.java
+    ³   ³   ³   ³       CannonOverlay.java
+    ³   ³   ³   ³       CannonPlugin.java
+    ³   ³   ³   ³       CannonSpotOverlay.java
+    ³   ³   ³   ³       CannonSpots.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄchatchannel
+    ³   ³   ³   ³       ActivityType.java
+    ³   ³   ³   ³       ChatChannelConfig.java
+    ³   ³   ³   ³       ChatChannelPlugin.java
+    ³   ³   ³   ³       MemberActivity.java
+    ³   ³   ³   ³       MemberJoinMessage.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄchatcommands
+    ³   ³   ³   ³       ChatCommandsConfig.java
+    ³   ³   ³   ³       ChatCommandsPlugin.java
+    ³   ³   ³   ³       ChatKeyboardListener.java
+    ³   ³   ³   ³       Pet.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄchatfilter
+    ³   ³   ³   ³       ChatFilterConfig.java
+    ³   ³   ³   ³       ChatFilterPlugin.java
+    ³   ³   ³   ³       ChatFilterType.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄchathistory
+    ³   ³   ³   ³       ChatboxTab.java
+    ³   ³   ³   ³       ChatHistoryConfig.java
+    ³   ³   ³   ³       ChatHistoryPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄchatnotifications
+    ³   ³   ³   ³       ChatNotificationsConfig.java
+    ³   ³   ³   ³       ChatNotificationsPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄcluescrolls
+    ³   ³   ³   ³   ³   ClueScrollConfig.java
+    ³   ³   ³   ³   ³   ClueScrollEmoteOverlay.java
+    ³   ³   ³   ³   ³   ClueScrollMusicOverlay.java
+    ³   ³   ³   ³   ³   ClueScrollOverlay.java
+    ³   ³   ³   ³   ³   ClueScrollPlugin.java
+    ³   ³   ³   ³   ³   ClueScrollService.java
+    ³   ³   ³   ³   ³   ClueScrollServiceImpl.java
+    ³   ³   ³   ³   ³   ClueScrollWorldMapPoint.java
+    ³   ³   ³   ³   ³   ClueScrollWorldOverlay.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÀÄÄÄclues
+    ³   ³   ³   ³       ³   AnagramClue.java
+    ³   ³   ³   ³       ³   BeginnerMapClue.java
+    ³   ³   ³   ³       ³   CipherClue.java
+    ³   ³   ³   ³       ³   ClueScroll.java
+    ³   ³   ³   ³       ³   CoordinateClue.java
+    ³   ³   ³   ³       ³   CrypticClue.java
+    ³   ³   ³   ³       ³   EmoteClue.java
+    ³   ³   ³   ³       ³   Enemy.java
+    ³   ³   ³   ³       ³   FairyRingClue.java
+    ³   ³   ³   ³       ³   FaloTheBardClue.java
+    ³   ³   ³   ³       ³   HotColdClue.java
+    ³   ³   ³   ³       ³   LocationClueScroll.java
+    ³   ³   ³   ³       ³   LocationsClueScroll.java
+    ³   ³   ³   ³       ³   MapClue.java
+    ³   ³   ³   ³       ³   MonsterClue.java
+    ³   ³   ³   ³       ³   MusicClue.java
+    ³   ³   ³   ³       ³   NamedObjectClueScroll.java
+    ³   ³   ³   ³       ³   NpcClueScroll.java
+    ³   ³   ³   ³       ³   ObjectClueScroll.java
+    ³   ³   ³   ³       ³   SkillChallengeClue.java
+    ³   ³   ³   ³       ³   ThreeStepCrypticClue.java
+    ³   ³   ³   ³       ³   
+    ³   ³   ³   ³       ÃÄÄÄemote
+    ³   ³   ³   ³       ³       Emote.java
+    ³   ³   ³   ³       ³       STASHUnit.java
+    ³   ³   ³   ³       ³       
+    ³   ³   ³   ³       ÃÄÄÄhotcold
+    ³   ³   ³   ³       ³       HotColdArea.java
+    ³   ³   ³   ³       ³       HotColdLocation.java
+    ³   ³   ³   ³       ³       HotColdSolver.java
+    ³   ³   ³   ³       ³       HotColdTemperature.java
+    ³   ³   ³   ³       ³       HotColdTemperatureChange.java
+    ³   ³   ³   ³       ³       
+    ³   ³   ³   ³       ÀÄÄÄitem
+    ³   ³   ³   ³               AllRequirementsCollection.java
+    ³   ³   ³   ³               AnyRequirementCollection.java
+    ³   ³   ³   ³               ItemRequirement.java
+    ³   ³   ³   ³               ItemRequirements.java
+    ³   ³   ³   ³               MultipleOfItemRequirement.java
+    ³   ³   ³   ³               RangeItemRequirement.java
+    ³   ³   ³   ³               SingleItemRequirement.java
+    ³   ³   ³   ³               SlotLimitationRequirement.java
+    ³   ³   ³   ³               
+    ³   ³   ³   ÃÄÄÄcombatlevel
+    ³   ³   ³   ³       CombatLevelConfig.java
+    ³   ³   ³   ³       CombatLevelOverlay.java
+    ³   ³   ³   ³       CombatLevelPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄconfig
+    ³   ³   ³   ³       ConfigPanel.java
+    ³   ³   ³   ³       ConfigPlugin.java
+    ³   ³   ³   ³       FixedWidthPanel.java
+    ³   ³   ³   ³       HotkeyButton.java
+    ³   ³   ³   ³       NotificationPanel.java
+    ³   ³   ³   ³       PluginConfigurationDescriptor.java
+    ³   ³   ³   ³       PluginHubPanel.java
+    ³   ³   ³   ³       PluginListItem.java
+    ³   ³   ³   ³       PluginListPanel.java
+    ³   ³   ³   ³       PluginSearch.java
+    ³   ³   ³   ³       PluginToggleButton.java
+    ³   ³   ³   ³       ProfilePanel.java
+    ³   ³   ³   ³       SearchablePlugin.java
+    ³   ³   ³   ³       TopLevelConfigPanel.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄcooking
+    ³   ³   ³   ³       CookingConfig.java
+    ³   ³   ³   ³       CookingOverlay.java
+    ³   ³   ³   ³       CookingPlugin.java
+    ³   ³   ³   ³       CookingSession.java
+    ³   ³   ³   ³       FermentTimer.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄcorp
+    ³   ³   ³   ³       CorpConfig.java
+    ³   ³   ³   ³       CorpDamageOverlay.java
+    ³   ³   ³   ³       CorpPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄcrowdsourcing
+    ³   ³   ³   ³   ³   CrowdsourcingManager.java
+    ³   ³   ³   ³   ³   CrowdsourcingPlugin.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÃÄÄÄcooking
+    ³   ³   ³   ³   ³       CookingData.java
+    ³   ³   ³   ³   ³       CrowdsourcingCooking.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÃÄÄÄdialogue
+    ³   ³   ³   ³   ³       ChatMessageData.java
+    ³   ³   ³   ³   ³       CrowdsourcingDialogue.java
+    ³   ³   ³   ³   ³       DialogueOptionsData.java
+    ³   ³   ³   ³   ³       DoubleSpriteTextData.java
+    ³   ³   ³   ³   ³       NpcDialogueData.java
+    ³   ³   ³   ³   ³       PlayerDialogueData.java
+    ³   ³   ³   ³   ³       SpriteTextData.java
+    ³   ³   ³   ³   ³       StartEndData.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÃÄÄÄmusic
+    ³   ³   ³   ³   ³       CrowdsourcingMusic.java
+    ³   ³   ³   ³   ³       MusicUnlockData.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÃÄÄÄskilling
+    ³   ³   ³   ³   ³       SkillingEndReason.java
+    ³   ³   ³   ³   ³       SkillingState.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÃÄÄÄthieving
+    ³   ³   ³   ³   ³       CrowdsourcingThieving.java
+    ³   ³   ³   ³   ³       PickpocketData.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÃÄÄÄwoodcutting
+    ³   ³   ³   ³   ³       CrowdsourcingWoodcutting.java
+    ³   ³   ³   ³   ³       WoodcuttingData.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÀÄÄÄzmi
+    ³   ³   ³   ³           CrowdsourcingZMI.java
+    ³   ³   ³   ³           ZMIData.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄcustomcursor
+    ³   ³   ³   ³       CustomCursor.java
+    ³   ³   ³   ³       CustomCursorConfig.java
+    ³   ³   ³   ³       CustomCursorPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄdailytaskindicators
+    ³   ³   ³   ³       DailyTasksConfig.java
+    ³   ³   ³   ³       DailyTasksPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄdefaultworld
+    ³   ³   ³   ³       DefaultWorldConfig.java
+    ³   ³   ³   ³       DefaultWorldPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄdiscord
+    ³   ³   ³   ³       DiscordAreaType.java
+    ³   ³   ³   ³       DiscordConfig.java
+    ³   ³   ³   ³       DiscordGameEventType.java
+    ³   ³   ³   ³       DiscordPlugin.java
+    ³   ³   ³   ³       DiscordState.java
+    ³   ³   ³   ³       DiscordUserInfo.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄdpscounter
+    ³   ³   ³   ³       DpsConfig.java
+    ³   ³   ³   ³       DpsCounterPlugin.java
+    ³   ³   ³   ³       DpsMember.java
+    ³   ³   ³   ³       DpsOverlay.java
+    ³   ³   ³   ³       DpsUpdate.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄdriftnet
+    ³   ³   ³   ³       DriftNet.java
+    ³   ³   ³   ³       DriftNetConfig.java
+    ³   ³   ³   ³       DriftNetOverlay.java
+    ³   ³   ³   ³       DriftNetPlugin.java
+    ³   ³   ³   ³       DriftNetStatus.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄemojis
+    ³   ³   ³   ³       Emoji.java
+    ³   ³   ³   ³       EmojiPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄentityhider
+    ³   ³   ³   ³       EntityHiderConfig.java
+    ³   ³   ³   ³       EntityHiderPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄexamine
+    ³   ³   ³   ³       ExaminePlugin.java
+    ³   ³   ³   ³       PendingExamine.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄfairyring
+    ³   ³   ³   ³       FairyRingConfig.java
+    ³   ³   ³   ³       FairyRingPlugin.java
+    ³   ³   ³   ³       FairyRings.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄferox
+    ³   ³   ³   ³       ClueScrollStepOverlay.java
+    ³   ³   ³   ³       FeroxConfig.java
+    ³   ³   ³   ³       FeroxPlugin.java
+    ³   ³   ³   ³       ItemUpgradeTier.java
+    ³   ³   ³   ³       MathUtil.java
+    ³   ³   ³   ³       WeaponUpgradeOverlay.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄfishing
+    ³   ³   ³   ³       FishingConfig.java
+    ³   ³   ³   ³       FishingOverlay.java
+    ³   ³   ³   ³       FishingPlugin.java
+    ³   ³   ³   ³       FishingSession.java
+    ³   ³   ³   ³       FishingSpotMinimapOverlay.java
+    ³   ³   ³   ³       FishingSpotOverlay.java
+    ³   ³   ³   ³       MinnowSpot.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄfps
+    ³   ³   ³   ³       FpsConfig.java
+    ³   ³   ³   ³       FpsDrawListener.java
+    ³   ³   ³   ³       FpsOverlay.java
+    ³   ³   ³   ³       FpsPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄfriendlist
+    ³   ³   ³   ³       FriendListConfig.java
+    ³   ³   ³   ³       FriendListPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄfriendnotes
+    ³   ³   ³   ³       FriendNoteOverlay.java
+    ³   ³   ³   ³       FriendNotesConfig.java
+    ³   ³   ³   ³       FriendNotesPlugin.java
+    ³   ³   ³   ³       HoveredFriend.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄgpu
+    ³   ³   ³   ³   ³   GLBuffer.java
+    ³   ³   ³   ³   ³   GpuFloatBuffer.java
+    ³   ³   ³   ³   ³   GpuIntBuffer.java
+    ³   ³   ³   ³   ³   GpuPlugin.java
+    ³   ³   ³   ³   ³   GpuPluginConfig.java
+    ³   ³   ³   ³   ³   Mat4.java
+    ³   ³   ³   ³   ³   OpenCLManager.java
+    ³   ³   ³   ³   ³   SceneUploader.java
+    ³   ³   ³   ³   ³   Shader.java
+    ³   ³   ³   ³   ³   ShaderException.java
+    ³   ³   ³   ³   ³   TextureManager.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÃÄÄÄconfig
+    ³   ³   ³   ³   ³       AntiAliasingMode.java
+    ³   ³   ³   ³   ³       ColorBlindMode.java
+    ³   ³   ³   ³   ³       UIScalingMode.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÃÄÄÄregions
+    ³   ³   ³   ³   ³       Region.java
+    ³   ³   ³   ³   ³       Regions.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÀÄÄÄtemplate
+    ³   ³   ³   ³           Template.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄgrandexchange
+    ³   ³   ³   ³       FuzzySearchScorer.java
+    ³   ³   ³   ³       GrandExchangeClient.java
+    ³   ³   ³   ³       GrandExchangeConfig.java
+    ³   ³   ³   ³       GrandExchangeInputListener.java
+    ³   ³   ³   ³       GrandExchangeItemPanel.java
+    ³   ³   ³   ³       GrandExchangeItems.java
+    ³   ³   ³   ³       GrandExchangeOfferSlot.java
+    ³   ³   ³   ³       GrandExchangeOffersPanel.java
+    ³   ³   ³   ³       GrandExchangePanel.java
+    ³   ³   ³   ³       GrandExchangePlugin.java
+    ³   ³   ³   ³       GrandExchangeSearchMode.java
+    ³   ³   ³   ³       GrandExchangeSearchPanel.java
+    ³   ³   ³   ³       SavedOffer.java
+    ³   ³   ³   ³       Trade.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄgrounditems
+    ³   ³   ³   ³   ³   GroundItem.java
+    ³   ³   ³   ³   ³   GroundItemHotkeyListener.java
+    ³   ³   ³   ³   ³   GroundItemMouseAdapter.java
+    ³   ³   ³   ³   ³   GroundItemsConfig.java
+    ³   ³   ³   ³   ³   GroundItemsOverlay.java
+    ³   ³   ³   ³   ³   GroundItemsPlugin.java
+    ³   ³   ³   ³   ³   ItemThreshold.java
+    ³   ³   ³   ³   ³   Lootbeam.java
+    ³   ³   ³   ³   ³   MenuEntryWithCount.java
+    ³   ³   ³   ³   ³   NamedQuantity.java
+    ³   ³   ³   ³   ³   WildcardMatchLoader.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÀÄÄÄconfig
+    ³   ³   ³   ³           DespawnTimerMode.java
+    ³   ³   ³   ³           HighlightTier.java
+    ³   ³   ³   ³           ItemHighlightMode.java
+    ³   ³   ³   ³           MenuHighlightMode.java
+    ³   ³   ³   ³           OwnershipFilterMode.java
+    ³   ³   ³   ³           PriceDisplayMode.java
+    ³   ³   ³   ³           ValueCalculationMode.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄgroundmarkers
+    ³   ³   ³   ³       ColorTileMarker.java
+    ³   ³   ³   ³       GroundMarkerConfig.java
+    ³   ³   ³   ³       GroundMarkerMinimapOverlay.java
+    ³   ³   ³   ³       GroundMarkerOverlay.java
+    ³   ³   ³   ³       GroundMarkerPlugin.java
+    ³   ³   ³   ³       GroundMarkerPoint.java
+    ³   ³   ³   ³       GroundMarkerSharingManager.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄherbiboars
+    ³   ³   ³   ³       HerbiboarConfig.java
+    ³   ³   ³   ³       HerbiboarMinimapOverlay.java
+    ³   ³   ³   ³       HerbiboarOverlay.java
+    ³   ³   ³   ³       HerbiboarPlugin.java
+    ³   ³   ³   ³       HerbiboarSearchSpot.java
+    ³   ³   ³   ³       HerbiboarStart.java
+    ³   ³   ³   ³       TrailToSpot.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄhiscore
+    ³   ³   ³   ³       HiscoreConfig.java
+    ³   ³   ³   ³       HiscorePanel.java
+    ³   ³   ³   ³       HiscorePlugin.java
+    ³   ³   ³   ³       NameAutocompleter.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄhunter
+    ³   ³   ³   ³       HunterConfig.java
+    ³   ³   ³   ³       HunterPlugin.java
+    ³   ³   ³   ³       HunterTrap.java
+    ³   ³   ³   ³       TrapOverlay.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄidlenotifier
+    ³   ³   ³   ³       IdleNotifierConfig.java
+    ³   ³   ³   ³       IdleNotifierPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄimplings
+    ³   ³   ³   ³       Impling.java
+    ³   ³   ³   ³       ImplingsConfig.java
+    ³   ³   ³   ³       ImplingsOverlay.java
+    ³   ³   ³   ³       ImplingSpawn.java
+    ³   ³   ³   ³       ImplingsPlugin.java
+    ³   ³   ³   ³       ImplingType.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄinfo
+    ³   ³   ³   ³       InfoPanel.java
+    ³   ³   ³   ³       InfoPlugin.java
+    ³   ³   ³   ³       JRichTextPane.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄinstancemap
+    ³   ³   ³   ³       InstanceMapInputListener.java
+    ³   ³   ³   ³       InstanceMapOverlay.java
+    ³   ³   ³   ³       InstanceMapPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄinteracthighlight
+    ³   ³   ³   ³       InteractHighlightConfig.java
+    ³   ³   ³   ³       InteractHighlightOverlay.java
+    ³   ³   ³   ³       InteractHighlightPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄinterfacestyles
+    ³   ³   ³   ³       HealthbarOverride.java
+    ³   ³   ³   ³       InterfaceStylesConfig.java
+    ³   ³   ³   ³       InterfaceStylesPlugin.java
+    ³   ³   ³   ³       Skin.java
+    ³   ³   ³   ³       SpriteOverride.java
+    ³   ³   ³   ³       WidgetOffset.java
+    ³   ³   ³   ³       WidgetOverride.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄinventorygrid
+    ³   ³   ³   ³       InventoryGridConfig.java
+    ³   ³   ³   ³       InventoryGridOverlay.java
+    ³   ³   ³   ³       InventoryGridPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄinventorytags
+    ³   ³   ³   ³       InventoryTagsConfig.java
+    ³   ³   ³   ³       InventoryTagsOverlay.java
+    ³   ³   ³   ³       InventoryTagsPlugin.java
+    ³   ³   ³   ³       Tag.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄinventoryviewer
+    ³   ³   ³   ³       InventoryViewerConfig.java
+    ³   ³   ³   ³       InventoryViewerOverlay.java
+    ³   ³   ³   ³       InventoryViewerPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄitemcharges
+    ³   ³   ³   ³       ItemChargeConfig.java
+    ³   ³   ³   ³       ItemChargeInfobox.java
+    ³   ³   ³   ³       ItemChargeOverlay.java
+    ³   ³   ³   ³       ItemChargePlugin.java
+    ³   ³   ³   ³       ItemChargeType.java
+    ³   ³   ³   ³       ItemWithCharge.java
+    ³   ³   ³   ³       ItemWithConfig.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄitemidentification
+    ³   ³   ³   ³       ItemIdentification.java
+    ³   ³   ³   ³       ItemIdentificationConfig.java
+    ³   ³   ³   ³       ItemIdentificationMode.java
+    ³   ³   ³   ³       ItemIdentificationOverlay.java
+    ³   ³   ³   ³       ItemIdentificationPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄitemprices
+    ³   ³   ³   ³       ItemPricesConfig.java
+    ³   ³   ³   ³       ItemPricesPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄitemstats
+    ³   ³   ³   ³   ³   BoostedStatBoost.java
+    ³   ³   ³   ³   ³   Builders.java
+    ³   ³   ³   ³   ³   CappedStatBoost.java
+    ³   ³   ³   ³   ³   Combo.java
+    ³   ³   ³   ³   ³   Effect.java
+    ³   ³   ³   ³   ³   Food.java
+    ³   ³   ³   ³   ³   FoodBase.java
+    ³   ³   ³   ³   ³   ItemStatChanges.java
+    ³   ³   ³   ³   ³   ItemStatChangesService.java
+    ³   ³   ³   ³   ³   ItemStatChangesServiceImpl.java
+    ³   ³   ³   ³   ³   ItemStatConfig.java
+    ³   ³   ³   ³   ³   ItemStatOverlay.java
+    ³   ³   ³   ³   ³   ItemStatPlugin.java
+    ³   ³   ³   ³   ³   Positivity.java
+    ³   ³   ³   ³   ³   RangeStatBoost.java
+    ³   ³   ³   ³   ³   RangeStatChange.java
+    ³   ³   ³   ³   ³   SimpleStatBoost.java
+    ³   ³   ³   ³   ³   SingleEffect.java
+    ³   ³   ³   ³   ³   StatBoost.java
+    ³   ³   ³   ³   ³   StatChange.java
+    ³   ³   ³   ³   ³   StatsChanges.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÃÄÄÄdelta
+    ³   ³   ³   ³   ³       DeltaCalculator.java
+    ³   ³   ³   ³   ³       DeltaPercentage.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÃÄÄÄfood
+    ³   ³   ³   ³   ³       Anglerfish.java
+    ³   ³   ³   ³   ³       CookedBream.java
+    ³   ³   ³   ³   ³       CookedMossLizard.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÃÄÄÄpotions
+    ³   ³   ³   ³   ³       Ambrosia.java
+    ³   ³   ³   ³   ³       AncientBrew.java
+    ³   ³   ³   ³   ³       MixedPotion.java
+    ³   ³   ³   ³   ³       MoonlightPotion.java
+    ³   ³   ³   ³   ³       PotionDuration.java
+    ³   ³   ³   ³   ³       PrayerPotion.java
+    ³   ³   ³   ³   ³       SaradominBrew.java
+    ³   ³   ³   ³   ³       StaminaPotion.java
+    ³   ³   ³   ³   ³       StatEffect.java
+    ³   ³   ³   ³   ³       SuperRestore.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÃÄÄÄspecial
+    ³   ³   ³   ³   ³       CastleWarsBandage.java
+    ³   ³   ³   ³   ³       CaveNightshade.java
+    ³   ³   ³   ³   ³       NettleTeaRunEnergy.java
+    ³   ³   ³   ³   ³       SpicyStew.java
+    ³   ³   ³   ³   ³       SunlightMoth.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÀÄÄÄstats
+    ³   ³   ³   ³           EnergyStat.java
+    ³   ³   ³   ³           SkillStat.java
+    ³   ³   ³   ³           Stat.java
+    ³   ³   ³   ³           Stats.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄkeyremapping
+    ³   ³   ³   ³       KeyRemappingConfig.java
+    ³   ³   ³   ³       KeyRemappingListener.java
+    ³   ³   ³   ³       KeyRemappingPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄkingdomofmiscellania
+    ³   ³   ³   ³       KingdomConfig.java
+    ³   ³   ³   ³       KingdomCounter.java
+    ³   ³   ³   ³       KingdomPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄkourendlibrary
+    ³   ³   ³   ³       Book.java
+    ³   ³   ³   ³       Bookcase.java
+    ³   ³   ³   ³       BookPanel.java
+    ³   ³   ³   ³       KourendLibraryConfig.java
+    ³   ³   ³   ³       KourendLibraryOverlay.java
+    ³   ³   ³   ³       KourendLibraryPanel.java
+    ³   ³   ³   ³       KourendLibraryPlugin.java
+    ³   ³   ³   ³       KourendLibraryTutorialOverlay.java
+    ³   ³   ³   ³       Library.java
+    ³   ³   ³   ³       SolvedState.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄloginscreen
+    ³   ³   ³   ³       LoginScreenConfig.java
+    ³   ³   ³   ³       LoginScreenOverride.java
+    ³   ³   ³   ³       LoginScreenPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄlogouttimer
+    ³   ³   ³   ³       LogoutTimerConfig.java
+    ³   ³   ³   ³       LogoutTimerPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄloottracker
+    ³   ³   ³   ³       ConfigLoot.java
+    ³   ³   ³   ³       LootReceived.java
+    ³   ³   ³   ³       LootTrackerBox.java
+    ³   ³   ³   ³       LootTrackerClient.java
+    ³   ³   ³   ³       LootTrackerConfig.java
+    ³   ³   ³   ³       LootTrackerItem.java
+    ³   ³   ³   ³       LootTrackerMapping.java
+    ³   ³   ³   ³       LootTrackerPanel.java
+    ³   ³   ³   ³       LootTrackerPlugin.java
+    ³   ³   ³   ³       LootTrackerPriceType.java
+    ³   ³   ³   ³       LootTrackerRecord.java
+    ³   ³   ³   ³       NpcMetadata.java
+    ³   ³   ³   ³       PluginLootReceived.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄlowmemory
+    ³   ³   ³   ³       LowMemoryConfig.java
+    ³   ³   ³   ³       LowMemoryPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄmenuentryswapper
+    ³   ³   ³   ³       BuyMode.java
+    ³   ³   ³   ³       FairyRingMode.java
+    ³   ³   ³   ³       GEItemCollectMode.java
+    ³   ³   ³   ³       HouseAdvertisementMode.java
+    ³   ³   ³   ³       HouseMode.java
+    ³   ³   ³   ³       MenuEntrySwapperConfig.java
+    ³   ³   ³   ³       MenuEntrySwapperPlugin.java
+    ³   ³   ³   ³       SellMode.java
+    ³   ³   ³   ³       ShiftDepositMode.java
+    ³   ³   ³   ³       ShiftWithdrawMode.java
+    ³   ³   ³   ³       Swap.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄmetronome
+    ³   ³   ³   ³       MetronomePlugin.java
+    ³   ³   ³   ³       MetronomePluginConfiguration.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄminimap
+    ³   ³   ³   ³       MinimapConfig.java
+    ³   ³   ³   ³       MinimapDot.java
+    ³   ³   ³   ³       MinimapPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄmining
+    ³   ³   ³   ³       MiningAnimation.java
+    ³   ³   ³   ³       MiningConfig.java
+    ³   ³   ³   ³       MiningOverlay.java
+    ³   ³   ³   ³       MiningPlugin.java
+    ³   ³   ³   ³       MiningRocksOverlay.java
+    ³   ³   ³   ³       MiningSession.java
+    ³   ³   ³   ³       Rock.java
+    ³   ³   ³   ³       RockRespawn.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄmotherlode
+    ³   ³   ³   ³       MotherlodeConfig.java
+    ³   ³   ³   ³       MotherlodePlugin.java
+    ³   ³   ³   ³       MotherlodeSceneOverlay.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄmousehighlight
+    ³   ³   ³   ³       MouseHighlightConfig.java
+    ³   ³   ³   ³       MouseHighlightOverlay.java
+    ³   ³   ³   ³       MouseHighlightPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄmta
+    ³   ³   ³   ³   ³   MTAConfig.java
+    ³   ³   ³   ³   ³   MTAItemOverlay.java
+    ³   ³   ³   ³   ³   MTAPlugin.java
+    ³   ³   ³   ³   ³   MTARoom.java
+    ³   ³   ³   ³   ³   MTASceneOverlay.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÃÄÄÄalchemy
+    ³   ³   ³   ³   ³       AlchemyItem.java
+    ³   ³   ³   ³   ³       AlchemyRoom.java
+    ³   ³   ³   ³   ³       AlchemyRoomTimer.java
+    ³   ³   ³   ³   ³       Cupboard.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÃÄÄÄenchantment
+    ³   ³   ³   ³   ³       EnchantmentRoom.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÃÄÄÄgraveyard
+    ³   ³   ³   ³   ³       GraveyardCounter.java
+    ³   ³   ³   ³   ³       GraveyardRoom.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÀÄÄÄtelekinetic
+    ³   ³   ³   ³           TelekineticRoom.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄmusic
+    ³   ³   ³   ³       MusicConfig.java
+    ³   ³   ³   ³       MusicPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnightmarezone
+    ³   ³   ³   ³       AbsorptionCounter.java
+    ³   ³   ³   ³       NightmareZoneConfig.java
+    ³   ³   ³   ³       NightmareZoneOverlay.java
+    ³   ³   ³   ³       NightmareZonePlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnotes
+    ³   ³   ³   ³       NotesConfig.java
+    ³   ³   ³   ³       NotesPanel.java
+    ³   ³   ³   ³       NotesPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnpchighlight
+    ³   ³   ³   ³       MemorizedNpc.java
+    ³   ³   ³   ³       NpcIndicatorsConfig.java
+    ³   ³   ³   ³       NpcIndicatorsPlugin.java
+    ³   ³   ³   ³       NpcRespawnOverlay.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄnpcunaggroarea
+    ³   ³   ³   ³       AggressionTimer.java
+    ³   ³   ³   ³       NpcAggroAreaConfig.java
+    ³   ³   ³   ³       NpcAggroAreaOverlay.java
+    ³   ³   ³   ³       NpcAggroAreaPlugin.java
+    ³   ³   ³   ³       UncalibratedInfobox.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄobjectindicators
+    ³   ³   ³   ³       ColorTileObject.java
+    ³   ³   ³   ³       ObjectIndicatorsConfig.java
+    ³   ³   ³   ³       ObjectIndicatorsOverlay.java
+    ³   ³   ³   ³       ObjectIndicatorsPlugin.java
+    ³   ³   ³   ³       ObjectPoint.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄopponentinfo
+    ³   ³   ³   ³       HitpointsDisplayStyle.java
+    ³   ³   ³   ³       OpponentInfoConfig.java
+    ³   ³   ³   ³       OpponentInfoOverlay.java
+    ³   ³   ³   ³       OpponentInfoPlugin.java
+    ³   ³   ³   ³       PlayerComparisonOverlay.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄparty
+    ³   ³   ³   ³   ³   PartyConfig.java
+    ³   ³   ³   ³   ³   PartyMemberBox.java
+    ³   ³   ³   ³   ³   PartyPanel.java
+    ³   ³   ³   ³   ³   PartyPingOverlay.java
+    ³   ³   ³   ³   ³   PartyPlugin.java
+    ³   ³   ³   ³   ³   PartyPluginService.java
+    ³   ³   ³   ³   ³   PartyPluginServiceImpl.java
+    ³   ³   ³   ³   ³   PartyStatusOverlay.java
+    ³   ³   ³   ³   ³   PartyWorldMapPoint.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÃÄÄÄdata
+    ³   ³   ³   ³   ³       PartyData.java
+    ³   ³   ³   ³   ³       PartyTilePingData.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÀÄÄÄmessages
+    ³   ³   ³   ³           LocationUpdate.java
+    ³   ³   ³   ³           StatusUpdate.java
+    ³   ³   ³   ³           TilePing.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄpestcontrol
+    ³   ³   ³   ³       Game.java
+    ³   ³   ³   ³       PestControlOverlay.java
+    ³   ³   ³   ³       PestControlPlugin.java
+    ³   ³   ³   ³       Portal.java
+    ³   ³   ³   ³       PortalContext.java
+    ³   ³   ³   ³       Rotation.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄplayerindicators
+    ³   ³   ³   ³       PlayerIndicatorsConfig.java
+    ³   ³   ³   ³       PlayerIndicatorsMinimapOverlay.java
+    ³   ³   ³   ³       PlayerIndicatorsOverlay.java
+    ³   ³   ³   ³       PlayerIndicatorsPlugin.java
+    ³   ³   ³   ³       PlayerIndicatorsService.java
+    ³   ³   ³   ³       PlayerIndicatorsTileOverlay.java
+    ³   ³   ³   ³       PlayerNameLocation.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄpoh
+    ³   ³   ³   ³       BurnerOverlay.java
+    ³   ³   ³   ³       IncenseBurner.java
+    ³   ³   ³   ³       PohConfig.java
+    ³   ³   ³   ³       PohIcons.java
+    ³   ³   ³   ³       PohOverlay.java
+    ³   ³   ³   ³       PohPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄpoison
+    ³   ³   ³   ³       PoisonConfig.java
+    ³   ³   ³   ³       PoisonInfobox.java
+    ³   ³   ³   ³       PoisonOverlay.java
+    ³   ³   ³   ³       PoisonPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄprayer
+    ³   ³   ³   ³       PrayerBarOverlay.java
+    ³   ³   ³   ³       PrayerConfig.java
+    ³   ³   ³   ³       PrayerCounter.java
+    ³   ³   ³   ³       PrayerDoseOverlay.java
+    ³   ³   ³   ³       PrayerFlickLocation.java
+    ³   ³   ³   ³       PrayerFlickOverlay.java
+    ³   ³   ³   ³       PrayerPlugin.java
+    ³   ³   ³   ³       PrayerReorder.java
+    ³   ³   ³   ³       PrayerRestoreType.java
+    ³   ³   ³   ³       PrayerType.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄpuzzlesolver
+    ³   ³   ³   ³   ³   PuzzleSolverConfig.java
+    ³   ³   ³   ³   ³   PuzzleSolverOverlay.java
+    ³   ³   ³   ³   ³   PuzzleSolverPlugin.java
+    ³   ³   ³   ³   ³   VarrockMuseumAnswer.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÃÄÄÄlightbox
+    ³   ³   ³   ³   ³       Combination.java
+    ³   ³   ³   ³   ³       LightBox.java
+    ³   ³   ³   ³   ³       LightboxSolution.java
+    ³   ³   ³   ³   ³       LightboxSolver.java
+    ³   ³   ³   ³   ³       LightboxState.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÀÄÄÄsolver
+    ³   ³   ³   ³       ³   PuzzleSolver.java
+    ³   ³   ³   ³       ³   PuzzleState.java
+    ³   ³   ³   ³       ³   PuzzleSwapPattern.java
+    ³   ³   ³   ³       ³   
+    ³   ³   ³   ³       ÃÄÄÄheuristics
+    ³   ³   ³   ³       ³       Heuristic.java
+    ³   ³   ³   ³       ³       ManhattanDistance.java
+    ³   ³   ³   ³       ³       
+    ³   ³   ³   ³       ÀÄÄÄpathfinding
+    ³   ³   ³   ³               IDAStar.java
+    ³   ³   ³   ³               IDAStarMM.java
+    ³   ³   ³   ³               Pathfinder.java
+    ³   ³   ³   ³               
+    ³   ³   ³   ÃÄÄÄpyramidplunder
+    ³   ³   ³   ³       PyramidPlunderConfig.java
+    ³   ³   ³   ³       PyramidPlunderOverlay.java
+    ³   ³   ³   ³       PyramidPlunderPlugin.java
+    ³   ³   ³   ³       PyramidPlunderTimer.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄquestlist
+    ³   ³   ³   ³       QuestListPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄraids
+    ³   ³   ³   ³   ³   Raid.java
+    ³   ³   ³   ³   ³   RaidRoom.java
+    ³   ³   ³   ³   ³   RaidsConfig.java
+    ³   ³   ³   ³   ³   RaidsOverlay.java
+    ³   ³   ³   ³   ³   RaidsPlugin.java
+    ³   ³   ³   ³   ³   RaidsTimer.java
+    ³   ³   ³   ³   ³   RoomType.java
+    ³   ³   ³   ³   ³   RotationSolver.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÃÄÄÄevents
+    ³   ³   ³   ³   ³       RaidReset.java
+    ³   ³   ³   ³   ³       RaidScouted.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÀÄÄÄsolver
+    ³   ³   ³   ³           Layout.java
+    ³   ³   ³   ³           LayoutSolver.java
+    ³   ³   ³   ³           Room.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄrandomevents
+    ³   ³   ³   ³       RandomEventConfig.java
+    ³   ³   ³   ³       RandomEventPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄregenmeter
+    ³   ³   ³   ³       RegenMeterConfig.java
+    ³   ³   ³   ³       RegenMeterOverlay.java
+    ³   ³   ³   ³       RegenMeterPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄreportbutton
+    ³   ³   ³   ³       ReportButtonConfig.java
+    ³   ³   ³   ³       ReportButtonPlugin.java
+    ³   ³   ³   ³       TimeFormat.java
+    ³   ³   ³   ³       TimeStyle.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄroofremoval
+    ³   ³   ³   ³       RoofRemovalConfig.java
+    ³   ³   ³   ³       RoofRemovalConfigOverride.java
+    ³   ³   ³   ³       RoofRemovalPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄrunecraft
+    ³   ³   ³   ³       AbyssMinimapOverlay.java
+    ³   ³   ³   ³       AbyssOverlay.java
+    ³   ³   ³   ³       AbyssRifts.java
+    ³   ³   ³   ³       EssencePouchOverlay.java
+    ³   ³   ³   ³       RunecraftConfig.java
+    ³   ³   ³   ³       RunecraftPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄrunenergy
+    ³   ³   ³   ³       RunEnergyConfig.java
+    ³   ³   ³   ³       RunEnergyOverlay.java
+    ³   ³   ³   ³       RunEnergyPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄrunepouch
+    ³   ³   ³   ³       RunepouchConfig.java
+    ³   ³   ³   ³       RunepouchOverlay.java
+    ³   ³   ³   ³       RunepouchPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄscreenmarkers
+    ³   ³   ³   ³   ³   ScreenMarker.java
+    ³   ³   ³   ³   ³   ScreenMarkerCreationOverlay.java
+    ³   ³   ³   ³   ³   ScreenMarkerMouseListener.java
+    ³   ³   ³   ³   ³   ScreenMarkerOverlay.java
+    ³   ³   ³   ³   ³   ScreenMarkerPlugin.java
+    ³   ³   ³   ³   ³   ScreenMarkerRenderable.java
+    ³   ³   ³   ³   ³   ScreenMarkerWidgetHighlightOverlay.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÀÄÄÄui
+    ³   ³   ³   ³           ScreenMarkerCreationPanel.java
+    ³   ³   ³   ³           ScreenMarkerPanel.java
+    ³   ³   ³   ³           ScreenMarkerPluginPanel.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄscreenshot
+    ³   ³   ³   ³       ScreenshotConfig.java
+    ³   ³   ³   ³       ScreenshotOverlay.java
+    ³   ³   ³   ³       ScreenshotPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄskillcalculator
+    ³   ³   ³   ³   ³   CalculatorType.java
+    ³   ³   ³   ³   ³   SkillCalculator.java
+    ³   ³   ³   ³   ³   SkillCalculatorPanel.java
+    ³   ³   ³   ³   ³   SkillCalculatorPlugin.java
+    ³   ³   ³   ³   ³   UIActionSlot.java
+    ³   ³   ³   ³   ³   UICalculatorInputArea.java
+    ³   ³   ³   ³   ³   UICombinedActionSlot.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÀÄÄÄskills
+    ³   ³   ³   ³           AgilityAction.java
+    ³   ³   ³   ³           AgilityBonus.java
+    ³   ³   ³   ³           ConstructionAction.java
+    ³   ³   ³   ³           ConstructionBonus.java
+    ³   ³   ³   ³           CookingAction.java
+    ³   ³   ³   ³           CraftingAction.java
+    ³   ³   ³   ³           FarmingAction.java
+    ³   ³   ³   ³           FarmingBonus.java
+    ³   ³   ³   ³           FiremakingAction.java
+    ³   ³   ³   ³           FiremakingBonus.java
+    ³   ³   ³   ³           FishingAction.java
+    ³   ³   ³   ³           FishingBonus.java
+    ³   ³   ³   ³           FletchingAction.java
+    ³   ³   ³   ³           HerbloreAction.java
+    ³   ³   ³   ³           HunterAction.java
+    ³   ³   ³   ³           ItemSkillAction.java
+    ³   ³   ³   ³           MagicAction.java
+    ³   ³   ³   ³           MiningAction.java
+    ³   ³   ³   ³           MiningBonus.java
+    ³   ³   ³   ³           NamedSkillAction.java
+    ³   ³   ³   ³           PrayerAction.java
+    ³   ³   ³   ³           PrayerBonus.java
+    ³   ³   ³   ³           RunecraftAction.java
+    ³   ³   ³   ³           RunecraftBonus.java
+    ³   ³   ³   ³           SkillAction.java
+    ³   ³   ³   ³           SkillBonus.java
+    ³   ³   ³   ³           SmithingAction.java
+    ³   ³   ³   ³           SmithingBonus.java
+    ³   ³   ³   ³           ThievingAction.java
+    ³   ³   ³   ³           WoodcuttingAction.java
+    ³   ³   ³   ³           WoodcuttingBonus.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄskybox
+    ³   ³   ³   ³       Skybox.java
+    ³   ³   ³   ³       SkyboxPlugin.java
+    ³   ³   ³   ³       SkyboxPluginConfig.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄslayer
+    ³   ³   ³   ³       SlayerConfig.java
+    ³   ³   ³   ³       SlayerOverlay.java
+    ³   ³   ³   ³       SlayerPlugin.java
+    ³   ³   ³   ³       SlayerPluginService.java
+    ³   ³   ³   ³       SlayerPluginServiceImpl.java
+    ³   ³   ³   ³       TargetWeaknessOverlay.java
+    ³   ³   ³   ³       Task.java
+    ³   ³   ³   ³       TaskCounter.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄsmelting
+    ³   ³   ³   ³       SmeltingConfig.java
+    ³   ³   ³   ³       SmeltingOverlay.java
+    ³   ³   ³   ³       SmeltingPlugin.java
+    ³   ³   ³   ³       SmeltingSession.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄspecialcounter
+    ³   ³   ³   ³       PercentageInfobox.java
+    ³   ³   ³   ³       PlayerInfoDrop.java
+    ³   ³   ³   ³       PlayerInfoDropOverlay.java
+    ³   ³   ³   ³       SpecialCounter.java
+    ³   ³   ³   ³       SpecialCounterConfig.java
+    ³   ³   ³   ³       SpecialCounterPlugin.java
+    ³   ³   ³   ³       SpecialCounterUpdate.java
+    ³   ³   ³   ³       SpecialWeapon.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄspellbook
+    ³   ³   ³   ³       SpellbookConfig.java
+    ³   ³   ³   ³       SpellbookPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄstatusbars
+    ³   ³   ³   ³       BarRenderer.java
+    ³   ³   ³   ³       StatusBarsConfig.java
+    ³   ³   ³   ³       StatusBarsOverlay.java
+    ³   ³   ³   ³       StatusBarsPlugin.java
+    ³   ³   ³   ³       Viewport.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄstretchedmode
+    ³   ³   ³   ³       StretchedModeConfig.java
+    ³   ³   ³   ³       StretchedModePlugin.java
+    ³   ³   ³   ³       TranslateMouseListener.java
+    ³   ³   ³   ³       TranslateMouseWheelListener.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄteam
+    ³   ³   ³   ³       MembersIndicator.java
+    ³   ³   ³   ³       TeamCapesOverlay.java
+    ³   ³   ³   ³       TeamConfig.java
+    ³   ³   ³   ³       TeamPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄtearsofguthix
+    ³   ³   ³   ³       TearsOfGuthixConfig.java
+    ³   ³   ³   ³       TearsOfGuthixOverlay.java
+    ³   ³   ³   ³       TearsOfGuthixPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄtileindicators
+    ³   ³   ³   ³       TileIndicatorsConfig.java
+    ³   ³   ³   ³       TileIndicatorsOverlay.java
+    ³   ³   ³   ³       TileIndicatorsPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄtimersandbuffs
+    ³   ³   ³   ³       BuffCounter.java
+    ³   ³   ³   ³       ElapsedTimer.java
+    ³   ³   ³   ³       GameCounter.java
+    ³   ³   ³   ³       GameTimer.java
+    ³   ³   ³   ³       GameTimerImageType.java
+    ³   ³   ³   ³       TimersAndBuffsConfig.java
+    ³   ³   ³   ³       TimersAndBuffsPlugin.java
+    ³   ³   ³   ³       TimerTimer.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄtimestamp
+    ³   ³   ³   ³       TimestampConfig.java
+    ³   ³   ³   ³       TimestampPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄtimetracking
+    ³   ³   ³   ³   ³   OverviewItemPanel.java
+    ³   ³   ³   ³   ³   OverviewTabPanel.java
+    ³   ³   ³   ³   ³   SortOrder.java
+    ³   ³   ³   ³   ³   SummaryState.java
+    ³   ³   ³   ³   ³   Tab.java
+    ³   ³   ³   ³   ³   TabContentPanel.java
+    ³   ³   ³   ³   ³   TimeablePanel.java
+    ³   ³   ³   ³   ³   TimeFormatMode.java
+    ³   ³   ³   ³   ³   TimeTrackingConfig.java
+    ³   ³   ³   ³   ³   TimeTrackingPanel.java
+    ³   ³   ³   ³   ³   TimeTrackingPlugin.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÃÄÄÄclocks
+    ³   ³   ³   ³   ³       Clock.java
+    ³   ³   ³   ³   ³       ClockManager.java
+    ³   ³   ³   ³   ³       ClockPanel.java
+    ³   ³   ³   ³   ³       ClockTabPanel.java
+    ³   ³   ³   ³   ³       Stopwatch.java
+    ³   ³   ³   ³   ³       StopwatchPanel.java
+    ³   ³   ³   ³   ³       Timer.java
+    ³   ³   ³   ³   ³       TimerPanel.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÃÄÄÄfarming
+    ³   ³   ³   ³   ³       Autoweed.java
+    ³   ³   ³   ³   ³       CompostState.java
+    ³   ³   ³   ³   ³       CompostTracker.java
+    ³   ³   ³   ³   ³       CropState.java
+    ³   ³   ³   ³   ³       FarmingContractInfoBox.java
+    ³   ³   ³   ³   ³       FarmingContractManager.java
+    ³   ³   ³   ³   ³       FarmingNextTickPanel.java
+    ³   ³   ³   ³   ³       FarmingPatch.java
+    ³   ³   ³   ³   ³       FarmingRegion.java
+    ³   ³   ³   ³   ³       FarmingTabPanel.java
+    ³   ³   ³   ³   ³       FarmingTracker.java
+    ³   ³   ³   ³   ³       FarmingWorld.java
+    ³   ³   ³   ³   ³       PatchImplementation.java
+    ³   ³   ³   ³   ³       PatchPrediction.java
+    ³   ³   ³   ³   ³       PatchState.java
+    ³   ³   ³   ³   ³       PaymentTracker.java
+    ³   ³   ³   ³   ³       Produce.java
+    ³   ³   ³   ³   ³       ProfilePatch.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÀÄÄÄhunter
+    ³   ³   ³   ³           BirdHouse.java
+    ³   ³   ³   ³           BirdHouseData.java
+    ³   ³   ³   ³           BirdHouseSpace.java
+    ³   ³   ³   ³           BirdHouseState.java
+    ³   ³   ³   ³           BirdHouseTabPanel.java
+    ³   ³   ³   ³           BirdHouseTracker.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄtithefarm
+    ³   ³   ³   ³       TitheFarmPlant.java
+    ³   ³   ³   ³       TitheFarmPlantOverlay.java
+    ³   ³   ³   ³       TitheFarmPlantState.java
+    ³   ³   ³   ³       TitheFarmPlantType.java
+    ³   ³   ³   ³       TitheFarmPlugin.java
+    ³   ³   ³   ³       TitheFarmPluginConfig.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄtwitch
+    ³   ³   ³   ³   ³   TwitchConfig.java
+    ³   ³   ³   ³   ³   TwitchPlugin.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÀÄÄÄirc
+    ³   ³   ³   ³           Message.java
+    ³   ³   ³   ³           TwitchIRCClient.java
+    ³   ³   ³   ³           TwitchListener.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄvirtuallevels
+    ³   ³   ³   ³       VirtualLevelsConfig.java
+    ³   ³   ³   ³       VirtualLevelsPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄwiki
+    ³   ³   ³   ³       WikiConfig.java
+    ³   ³   ³   ³       WikiDpsManager.java
+    ³   ³   ³   ³       WikiPlugin.java
+    ³   ³   ³   ³       WikiSearchChatboxTextInput.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄwintertodt
+    ³   ³   ³   ³   ³   WintertodtActivity.java
+    ³   ³   ³   ³   ³   WintertodtConfig.java
+    ³   ³   ³   ³   ³   WintertodtInterruptType.java
+    ³   ³   ³   ³   ³   WintertodtOverlay.java
+    ³   ³   ³   ³   ³   WintertodtPlugin.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÀÄÄÄconfig
+    ³   ³   ³   ³           WintertodtNotifyDamage.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄwoodcutting
+    ³   ³   ³   ³   ³   TreeRespawn.java
+    ³   ³   ³   ³   ³   WoodcuttingConfig.java
+    ³   ³   ³   ³   ³   WoodcuttingOverlay.java
+    ³   ³   ³   ³   ³   WoodcuttingPlugin.java
+    ³   ³   ³   ³   ³   WoodcuttingSceneOverlay.java
+    ³   ³   ³   ³   ³   WoodcuttingSession.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÀÄÄÄconfig
+    ³   ³   ³   ³           ClueNestTier.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄworldhopper
+    ³   ³   ³   ³   ³   RegionFilterMode.java
+    ³   ³   ³   ³   ³   SubscriptionFilterMode.java
+    ³   ³   ³   ³   ³   WorldHopperConfig.java
+    ³   ³   ³   ³   ³   WorldHopperPingOverlay.java
+    ³   ³   ³   ³   ³   WorldHopperPlugin.java
+    ³   ³   ³   ³   ³   WorldSwitcherPanel.java
+    ³   ³   ³   ³   ³   WorldTableHeader.java
+    ³   ³   ³   ³   ³   WorldTableRow.java
+    ³   ³   ³   ³   ³   WorldTypeFilter.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÀÄÄÄping
+    ³   ³   ³   ³           IcmpEchoReply.java
+    ³   ³   ³   ³           IPHlpAPI.java
+    ³   ³   ³   ³           Ping.java
+    ³   ³   ³   ³           RLLibC.java
+    ³   ³   ³   ³           Timeval.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄworldmap
+    ³   ³   ³   ³       AgilityCourseLocation.java
+    ³   ³   ³   ³       DungeonLocation.java
+    ³   ³   ³   ³       FairyRingLocation.java
+    ³   ³   ³   ³       FarmingPatchLocation.java
+    ³   ³   ³   ³       FishingSpotLocation.java
+    ³   ³   ³   ³       HunterAreaLocation.java
+    ³   ³   ³   ³       MapPoint.java
+    ³   ³   ³   ³       MinigameLocation.java
+    ³   ³   ³   ³       MiningSiteLocation.java
+    ³   ³   ³   ³       RareTreeLocation.java
+    ³   ³   ³   ³       RunecraftingAltarLocation.java
+    ³   ³   ³   ³       TeleportLocationData.java
+    ³   ³   ³   ³       TeleportType.java
+    ³   ³   ³   ³       TransportationPointLocation.java
+    ³   ³   ³   ³       WorldMapConfig.java
+    ³   ³   ³   ³       WorldMapPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄxpdrop
+    ³   ³   ³   ³       XpDropConfig.java
+    ³   ³   ³   ³       XpDropPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄxpglobes
+    ³   ³   ³   ³       XpGlobe.java
+    ³   ³   ³   ³       XpGlobesConfig.java
+    ³   ³   ³   ³       XpGlobesOverlay.java
+    ³   ³   ³   ³       XpGlobesPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄxptracker
+    ³   ³   ³   ³       XpClient.java
+    ³   ³   ³   ³       XpGoalTimeType.java
+    ³   ³   ³   ³       XpInfoBox.java
+    ³   ³   ³   ³       XpInfoBoxOverlay.java
+    ³   ³   ³   ³       XpPanel.java
+    ³   ³   ³   ³       XpPanelLabel.java
+    ³   ³   ³   ³       XpPauseState.java
+    ³   ³   ³   ³       XpPauseStateSingle.java
+    ³   ³   ³   ³       XpProgressBarLabel.java
+    ³   ³   ³   ³       XpSave.java
+    ³   ³   ³   ³       XpSaveSerializer.java
+    ³   ³   ³   ³       XpSaveSingle.java
+    ³   ³   ³   ³       XpSnapshotSingle.java
+    ³   ³   ³   ³       XpState.java
+    ³   ³   ³   ³       XpStateSingle.java
+    ³   ³   ³   ³       XpTrackerConfig.java
+    ³   ³   ³   ³       XpTrackerPlugin.java
+    ³   ³   ³   ³       XpTrackerService.java
+    ³   ³   ³   ³       XpTrackerServiceImpl.java
+    ³   ³   ³   ³       XpUpdateResult.java
+    ³   ³   ³   ³       XpWorldType.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄxpupdater
+    ³   ³   ³   ³       XpUpdaterConfig.java
+    ³   ³   ³   ³       XpUpdaterPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÃÄÄÄxtea
+    ³   ³   ³   ³       XteaClient.java
+    ³   ³   ³   ³       XteaPlugin.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÀÄÄÄzalcano
+    ³   ³   ³           ZalcanoOverlay.java
+    ³   ³   ³           ZalcanoPanel.java
+    ³   ³   ³           ZalcanoPlugin.java
+    ³   ³   ³           
+    ³   ³   ÃÄÄÄrs
+    ³   ³   ³       ClientConfigLoader.java
+    ³   ³   ³       ClientConfigLocalLoader.java
+    ³   ³   ³       ClientLoader.java
+    ³   ³   ³       RSAppletStub.java
+    ³   ³   ³       RSConfig.java
+    ³   ³   ³       WorldSupplier.java
+    ³   ³   ³       
+    ³   ³   ÃÄÄÄtask
+    ³   ³   ³       Schedule.java
+    ³   ³   ³       ScheduledMethod.java
+    ³   ³   ³       Scheduler.java
+    ³   ³   ³       
+    ³   ³   ÃÄÄÄui
+    ³   ³   ³   ³   Activatable.java
+    ³   ³   ³   ³   ClientPanel.java
+    ³   ³   ³   ³   ClientToolbar.java
+    ³   ³   ³   ³   ClientToolbarPanel.java
+    ³   ³   ³   ³   ClientUI.java
+    ³   ³   ³   ³   ColorScheme.java
+    ³   ³   ³   ³   ContainableFrame.java
+    ³   ³   ³   ³   DrawManager.java
+    ³   ³   ³   ³   DynamicGridLayout.java
+    ³   ³   ³   ³   FatalErrorDialog.java
+    ³   ³   ³   ³   FontManager.java
+    ³   ³   ³   ³   JagexColors.java
+    ³   ³   ³   ³   MultiplexingPluginPanel.java
+    ³   ³   ³   ³   NavigationButton.java
+    ³   ³   ³   ³   PluginPanel.java
+    ³   ³   ³   ³   SkillColor.java
+    ³   ³   ³   ³   SplashScreen.java
+    ³   ³   ³   ³   UnitFormatter.java
+    ³   ³   ³   ³   UnitFormatterFactory.java
+    ³   ³   ³   ³   
+    ³   ³   ³   ÃÄÄÄcomponents
+    ³   ³   ³   ³   ³   ColorJButton.java
+    ³   ³   ³   ³   ³   DimmableJPanel.java
+    ³   ³   ³   ³   ³   DragAndDropReorderPane.java
+    ³   ³   ³   ³   ³   FlatTextField.java
+    ³   ³   ³   ³   ³   IconTextField.java
+    ³   ³   ³   ³   ³   MouseDragEventForwarder.java
+    ³   ³   ³   ³   ³   PluginErrorPanel.java
+    ³   ³   ³   ³   ³   ProgressBar.java
+    ³   ³   ³   ³   ³   ThinProgressBar.java
+    ³   ³   ³   ³   ³   TitleCaseListCellRenderer.java
+    ³   ³   ³   ³   ³   
+    ³   ³   ³   ³   ÃÄÄÄcolorpicker
+    ³   ³   ³   ³   ³       ColorPanel.java
+    ³   ³   ³   ³   ³       ColorPickerManager.java
+    ³   ³   ³   ³   ³       ColorValuePanel.java
+    ³   ³   ³   ³   ³       ColorValueSlider.java
+    ³   ³   ³   ³   ³       HuePanel.java
+    ³   ³   ³   ³   ³       PreviewPanel.java
+    ³   ³   ³   ³   ³       RecentColors.java
+    ³   ³   ³   ³   ³       RuneliteColorPicker.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÃÄÄÄmaterialtabs
+    ³   ³   ³   ³   ³       MaterialTab.java
+    ³   ³   ³   ³   ³       MaterialTabGroup.java
+    ³   ³   ³   ³   ³       
+    ³   ³   ³   ³   ÀÄÄÄshadowlabel
+    ³   ³   ³   ³           JShadowedLabel.java
+    ³   ³   ³   ³           JShadowedLabelUI.java
+    ³   ³   ³   ³           
+    ³   ³   ³   ÃÄÄÄlaf
+    ³   ³   ³   ³       RuneLiteButtonUI.java
+    ³   ³   ³   ³       RuneLiteCheckBoxUI.java
+    ³   ³   ³   ³       RuneLiteLAF.java
+    ³   ³   ³   ³       RuneLiteRadioButtonUI.java
+    ³   ³   ³   ³       RuneLiteRootPaneUI.java
+    ³   ³   ³   ³       RuneLiteScrollBarUI.java
+    ³   ³   ³   ³       RuneLiteTabbedPaneUI.java
+    ³   ³   ³   ³       RuneLiteToggleButtonUI.java
+    ³   ³   ³   ³       
+    ³   ³   ³   ÀÄÄÄoverlay
+    ³   ³   ³       ³   Overlay.java
+    ³   ³   ³       ³   OverlayBounds.java
+    ³   ³   ³       ³   OverlayLayer.java
+    ³   ³   ³       ³   OverlayManager.java
+    ³   ³   ³       ³   OverlayMenuEntry.java
+    ³   ³   ³       ³   OverlayPanel.java
+    ³   ³   ³       ³   OverlayPosition.java
+    ³   ³   ³       ³   OverlayPriority.java
+    ³   ³   ³       ³   OverlayRenderer.java
+    ³   ³   ³       ³   OverlayUtil.java
+    ³   ³   ³       ³   RenderableEntity.java
+    ³   ³   ³       ³   WidgetItemOverlay.java
+    ³   ³   ³       ³   WidgetOverlay.java
+    ³   ³   ³       ³   
+    ³   ³   ³       ÃÄÄÄcomponents
+    ³   ³   ³       ³       BackgroundComponent.java
+    ³   ³   ³       ³       ComponentConstants.java
+    ³   ³   ³       ³       ComponentOrientation.java
+    ³   ³   ³       ³       ImageComponent.java
+    ³   ³   ³       ³       InfoBoxComponent.java
+    ³   ³   ³       ³       LayoutableRenderableEntity.java
+    ³   ³   ³       ³       LineComponent.java
+    ³   ³   ³       ³       PanelComponent.java
+    ³   ³   ³       ³       ProgressBarComponent.java
+    ³   ³   ³       ³       ProgressPieComponent.java
+    ³   ³   ³       ³       SplitComponent.java
+    ³   ³   ³       ³       TextComponent.java
+    ³   ³   ³       ³       TitleComponent.java
+    ³   ³   ³       ³       TooltipComponent.java
+    ³   ³   ³       ³       
+    ³   ³   ³       ÃÄÄÄinfobox
+    ³   ³   ³       ³       Counter.java
+    ³   ³   ³       ³       InfoBox.java
+    ³   ³   ³       ³       InfoBoxManager.java
+    ³   ³   ³       ³       InfoBoxOverlay.java
+    ³   ³   ³       ³       InfoBoxPriority.java
+    ³   ³   ³       ³       LoopTimer.java
+    ³   ³   ³       ³       Timer.java
+    ³   ³   ³       ³       
+    ³   ³   ³       ÃÄÄÄoutline
+    ³   ³   ³       ³       IntBlockBuffer.java
+    ³   ³   ³       ³       ModelOutlineRenderer.java
+    ³   ³   ³       ³       
+    ³   ³   ³       ÃÄÄÄtooltip
+    ³   ³   ³       ³       Tooltip.java
+    ³   ³   ³       ³       TooltipManager.java
+    ³   ³   ³       ³       TooltipOverlay.java
+    ³   ³   ³       ³       
+    ³   ³   ³       ÀÄÄÄworldmap
+    ³   ³   ³               WorldMapOverlay.java
+    ³   ³   ³               WorldMapPoint.java
+    ³   ³   ³               WorldMapPointManager.java
+    ³   ³   ³               
+    ³   ³   ÀÄÄÄutil
+    ³   ³           AsyncBufferedImage.java
+    ³   ³           CallableExceptionLogger.java
+    ³   ³           ColorUtil.java
+    ³   ³           CountingInputStream.java
+    ³   ³           DeduplicationFilter.java
+    ³   ³           DeferredEventBus.java
+    ³   ³           ExecutorServiceExceptionLogger.java
+    ³   ³           GameEventManager.java
+    ³   ³           HotkeyListener.java
+    ³   ³           ImageCapture.java
+    ³   ³           ImageUploadStyle.java
+    ³   ³           ImageUtil.java
+    ³   ³           JagexPrintableCharMatcher.java
+    ³   ³           LinkBrowser.java
+    ³   ³           MacOSPopupFactory.java
+    ³   ³           OSType.java
+    ³   ³           QuantityFormatter.java
+    ³   ³           ReflectUtil.java
+    ³   ³           RSTimeUnit.java
+    ³   ³           RunnableExceptionLogger.java
+    ³   ³           RuntimeTypeAdapterFactory.java
+    ³   ³           SwingUtil.java
+    ³   ³           Text.java
+    ³   ³           TransferableBufferedImage.java
+    ³   ³           VerificationException.java
+    ³   ³           WildcardMatcher.java
+    ³   ³           WinUtil.java
+    ³   ³           WorldUtil.java
+    ³   ³           
+    ³   ÀÄÄÄresources
+    ÀÄÄÄtest
+        ÃÄÄÄjava
+        ÀÄÄÄresources

@@ -1,0 +1,45 @@
+Folder PATH listing
+Volume serial number is 70DE-7E1E
+C:.
+    aopalliance-1.0.jar
+    autocomplete-3.1.1.jar
+    bcprov-jdk15on-1.59.jar
+    client-57b3fe11d3.jar
+    commons-lang3-3.7.jar
+    commons-text-1.2.jar
+    discord-1.4.jar
+    flatlaf-3.2.5-rl4.jar
+    flatlaf-extras-3.2.5-rl4.jar
+    gson-2.8.5.jar
+    guava-23.2-jre.jar
+    guice-4.1.0-no_aop.jar
+    http-api-1.2.21.jar
+    injected-client-1.11.12.jar
+    javax.inject-1.jar
+    jna-5.10.0.jar
+    jna-platform-5.10.0.jar
+    jopt-simple-5.0.1.jar
+    json-20220320.jar
+    jsr305-3.0.2.jar
+    jsvg-1.2.0.jar
+    logback-classic-1.2.9.jar
+    logback-core-1.2.9.jar
+    lwjgl-3.3.2-natives-windows.jar
+    lwjgl-3.3.2.jar
+    lwjgl-opencl-3.3.2.jar
+    lwjgl-opengl-3.3.2-natives-windows.jar
+    lwjgl-opengl-3.3.2.jar
+    okhttp-3.14.9.jar
+    okio-1.17.2.jar
+    protobuf-javalite-3.21.12.jar
+    rlawt-1.5.jar
+    rsyntaxtextarea-3.1.2.jar
+    runelite-api-1.11.12.jar
+    runescape-api-1.11.12.jar
+    sentry-8.17.0.jar
+    sentry-logback-8.17.0.jar
+    slf4j-api-1.7.25.jar
+    tree.txt
+    
+No subfolders exist 
+
